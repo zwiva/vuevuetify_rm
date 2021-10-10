@@ -1,4 +1,4 @@
-# baseproject
+# Project with buefy instead vuetify
 
 ## Project setup
 ```
